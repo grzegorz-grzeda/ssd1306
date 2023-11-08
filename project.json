@@ -1,0 +1,7 @@
+{
+    "libraries": [
+        "atomic-tests",
+        "generic-controller",
+        "generic-display"
+    ]
+}
